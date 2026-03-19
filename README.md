@@ -1,5 +1,5 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjg3MW5pYXU0Z3l0aXZ6cmdrdjc1d2VncDR5b3VmMzYwaTQwejZnMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VpxpIm1coCLZzvgCtB/giphy.gif" align="center" height="200px" width="auto"/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3500&pause=1&color=6A0DAD&center=true&multiline=true&width=435&height=90&lines=LET+ME+COOK+%F0%9F%94%A5;A+.NET+DEVELOPER" alt="Typing SVG" align="center"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double+Ink&weight=900&size=26&duration=3500&pause=1&color=FF0034&background=7921FF00&center=true&multiline=true&width=435&height=90&lines=LET+MEEE+COOK++;A+.NET+DEVELOPER" alt="Typing SVG"/></a><br>
 
 
 ### :space_invader: &nbsp;About Me
