@@ -1,3 +1,9 @@
+<style>
+  #AA{
+    color: red;
+  }
+</style>
+<h1 id="AA">Tahhhhor</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double+Ink&weight=900&size=26&duration=3500&pause=1&color=BF1EC0&center=true&multiline=true&width=435&height=90&lines=LET+MEEE+COOK++;A+.NET+DEVELOPER" alt="Typing SVG" align="center"/></a>
 <img src= "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjg3MW5pYXU0Z3l0aXZ6cmdrdjc1d2VncDR5b3VmMzYwaTQwejZnMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VpxpIm1coCLZzvgCtB/giphy.gif" align="center" height="150px" width="auto"></img> 
 
