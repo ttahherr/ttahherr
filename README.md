@@ -74,21 +74,3 @@ Off the keyboard: you'll find me <b>lifting at the gym</b> 💪, <b>lost in a bo
 ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-FF6C37.svg?&style=flat&logoColor=white)&nbsp;
 
 </details>
-
-<details>
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
-  <br/>
-  <p align="center">
-    <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=ttahherr&hide_border=true&theme=nightowl" />
-  </p>
-  <p align="center">
-    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ttahherr&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" />
-    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttahherr&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
-  </p>
-</details>
-
-<hr/>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=ttahherr&style=plastic&label=Views"/>
-</p>
