@@ -1,3 +1,5 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double+Ink&weight=900&size=26&pause=1000&color=BF1EC0&multiline=true&width=435&lines=LET+MEEE+COOK++;A+.NET+DEVELOPER" alt="Typing SVG" /></a>
+
 <img src="images/svg/header_en.svg"></img>
 
 <table align="right">
